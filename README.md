@@ -3,7 +3,7 @@
 Informatics Engineering undergraduate at [Bandung Institute of Technology](https://www.itb.ac.id/). Computer enthusiast with deep interest of programming, minimalism, and productivity. Fascinated by everything that's Computer Science related.
 
 - 🔭 Pursuing Bachelor's degree in **Informatics Engineering** at ITB
-- 🌱 I’m currently learning and mastering: `.py`, `.c`, `.cpp`, `.java`
+- 🌱 I’m currently learning and mastering: `Software Engineering`
 - 👯 I’m looking to collaborate on **Open Source**, **Mobile**, **Web**, and **Robotics** projects
 - 💬 I'm mostly active within the **PC Building** and **Computer Sciece** communities
 
