@@ -5,7 +5,7 @@ Informatics Engineering undergraduate at [Bandung Institute of Technology](https
 - 🔭 Pursuing Bachelor's degree in **Informatics Engineering** at ITB
 - 🌱 I’m currently learning and mastering: `Software Engineering`
 - 👯 I’m looking to collaborate on **Open Source**, **Mobile**, **Web**, and **Robotics** projects
-- 💬 I'm mostly active within the **PC Building** and **Computer Sciece** communities
+- 💬 I'm mostly active within the **PC Building** and **Computer Science** communities
 
 ### 📬 Get in Touch
 
